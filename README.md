@@ -211,7 +211,7 @@ export TORCH_DIR=/usr/local/libtorch/share/cmake/Torch
 Clone the repository:
 
 ```bash
-git clone --recursive https://github.com/<your-username>/SuperPoint-LightGlue-Monocular-SLAM.git
+git clone --recursive https://github.com/xiaolaobanbutan/SuperPoint-LightGlue-Monocular-SLAM.git
 ```
 
 Build the project:

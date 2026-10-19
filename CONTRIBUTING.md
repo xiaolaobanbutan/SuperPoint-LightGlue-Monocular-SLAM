@@ -7,7 +7,7 @@ Thank you for your interest in contributing to this SP-SLAM3-derived project! Th
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone --recursive https://github.com/<your-username>/SuperPoint-LightGlue-Monocular-SLAM.git
+   git clone --recursive https://github.com/xiaolaobanbutan/SuperPoint-LightGlue-Monocular-SLAM.git
    ```
 3. Follow the [README](README.md) to install prerequisites and build the project
 
